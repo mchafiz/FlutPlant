@@ -1,4 +1,4 @@
-# mysqlshop
+# Flutplant
 
 A new Flutter project.
 
